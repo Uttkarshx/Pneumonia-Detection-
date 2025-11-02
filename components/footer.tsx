@@ -15,14 +15,14 @@ export function Footer() {
             <li>
               GitHub Repo:{" "}
               <a className="underline underline-offset-4" href="#" onClick={(e) => e.preventDefault()}>
-                Add link
+                https://github.com/Uttkarshx/Pneumonia-Detection-
               </a>
             </li>
           </ul>
         </div>
         <div>
           <h4 className="font-semibold">Team</h4>
-          <p className="text-sm text-muted-foreground">TEAM DECTECTIFIERS </p>
+          <p className="text-sm text-muted-foreground">TEAM DETECTIFIERS </p>
         </div>
       </div>
     </footer>
